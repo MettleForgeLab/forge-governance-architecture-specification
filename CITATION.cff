@@ -6,7 +6,7 @@ type: software
 authors:
   - name: "Mettle Forge Lab"
 
-repository-code: "https://github.com/MettleForgeLab/ForgeEcosystem"
+repository-code: "https://github.com/MettleForgeLab/forge-governance-architecture-specification"
 
 license: "CC-BY-SA-4.0"
 
